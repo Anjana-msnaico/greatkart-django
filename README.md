@@ -1,1 +1,1 @@
-# greatkart-django by anjana
+# greatkart-django by Anjana
